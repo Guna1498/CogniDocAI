@@ -71,19 +71,19 @@ A wrong but confident answer is worse than no answer. Hallucinations kill the pr
 
 - Corpus: SEC filings (10-Ks and 10-Qs) for S&P 500 companies, 2020–2025
 - Source: SEC EDGAR (public domain)
-- Users: ~40 Driftwood analysts, plus a few partners
-- Login: Driftwood email addresses (no SSO required)
-- Hosting: must run on a small/medium cloud footprint; Driftwood has no infra team
+- Users: ~40 Ironridge analysts, plus a few partners
+- Login: Ironridge email addresses (no SSO required)
+- Hosting: must run on a small/medium cloud footprint; Ironridge has no infra team
 
 ## Out of scope (explicitly)
 
 - Trading recommendations or stock picks
 - External data sources (no news, no social, no alternative data)
 - Anything generating analysis not grounded in the corpus
-- Multi-tenant / multi-client. This is Driftwood-internal only.
+- Multi-tenant / multi-client. This is Ironridge-internal only.
 - Billing, plans, paywalls
 - Mobile app
 
 ## Definition of done
 
-The analyst pilot group (5 senior analysts) tries it for a week and reports it saves them at least 3 hours per analyst per week. If yes, Driftwood rolls it out firm-wide.
+The analyst pilot group (5 senior analysts) tries it for a week and reports it saves them at least 3 hours per analyst per week. If yes, Ironridge rolls it out firm-wide.
