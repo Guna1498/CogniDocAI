@@ -6,7 +6,7 @@
 
 They don't manage money themselves. Their product is research and access to their analysts.
 
-## How Driftwood makes money
+## How Ironridge makes money
 
 - Analysts each cover ~15 US public companies in a specific industry (semiconductors, retail, energy, etc.)
 - They produce written research reports, financial models, and stock-level recommendations
@@ -16,7 +16,7 @@ They don't manage money themselves. Their product is research and access to thei
 ## How they add value
 
 - Their clients (portfolio managers at funds) don't have the bandwidth to read every 10-K, 10-Q, earnings transcript, and industry filing for the companies they invest in
-- Driftwood's analysts have already done that reading and turned it into actionable summaries
+- Ironridge's analysts have already done that reading and turned it into actionable summaries
 - The value is *condensation*: turning thousands of pages into a one-page thesis the PM can act on
 
 ## The problem
