@@ -1,4 +1,4 @@
-# Client brief — Driftwood Capital
+# Client brief — Ironridge Capital Research
 
 ## The client
 
@@ -21,7 +21,7 @@ They don't manage money themselves. Their product is research and access to thei
 
 ## The problem
 
-Every Driftwood analyst spends roughly **half of every week** doing source-document intake — opening SEC filings, scanning for the sections they care about (risk factors, MD&A, business segments), copy-pasting passages, comparing year-over-year. Only after that intake work can they produce any original analysis.
+Every Ironridge analyst spends roughly **half of every week** doing source-document intake — opening SEC filings, scanning for the sections they care about (risk factors, MD&A, business segments), copy-pasting passages, comparing year-over-year. Only after that intake work can they produce any original analysis.
 
 The intake work is:
 
@@ -34,12 +34,12 @@ Hiring more analysts doesn't fix it — the intake bottleneck scales linearly wi
 
 ## What they want
 
-An internal chatbot — call it **Document Copilot** — where any Driftwood analyst can:
+An internal chatbot — call it **Document Copilot** — where any Ironridge analyst can:
 
-- Ask questions in plain English about any filing in Driftwood's curated corpus
+- Ask questions in plain English about any filing in Ironridge's curated corpus
 - Get a sourced answer that cites the specific filing and the specific page
 - Trust the answer enough to base downstream analysis on it
-- Use it from a browser, logged in with their Driftwood email address
+- Use it from a browser, logged in with their Ironridge email address
 - See their own past conversations
 
 ## Example analyst questions
